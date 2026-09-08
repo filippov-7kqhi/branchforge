@@ -12,6 +12,8 @@ step, no dependencies, no framework.
 
 All four carry real photography, ten views each.
 
+All four carry real photography, ten views each.
+
 ## Structure
 
 ```
